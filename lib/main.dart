@@ -17,7 +17,6 @@ class CalculatorApp extends StatelessWidget {
     );
   }
 }
-//shuvo
 
 class CalculatorScreen extends StatefulWidget {
   @override
